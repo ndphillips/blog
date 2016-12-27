@@ -1,7 +1,7 @@
 ---
 title: "Test"
 author: "Nathaniel"
-date: "Today" # DO NOT USE Sys.Date()
+date: "December 27 2016" # DO NOT USE Sys.Date()
 output:                    # DO NOT CHANGE
   prettydoc::html_pretty:  # DO NOT CHANGE
     theme: cayman          # DO NOT CHANGE
