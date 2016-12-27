@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: 
+name: Nathaniel Phillips
 
 # Short bio or description (displayed in the header)
 description: 
@@ -13,7 +13,7 @@ avatar:
 
 # Your website URL (e.g. https://barryclark.github.io or https://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: 
+url: https://ndphillips.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
