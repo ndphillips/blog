@@ -1,7 +1,10 @@
 ---
 title: "Introducing the VisualResume (v0.1.0) R Package"
 output: github_document
+date: "January 3 2017"
+
 ---
+
 
 ## Visual Resumes are cool
 
