@@ -75,7 +75,7 @@ The main function in the package is `VisualResume()`. When running `VisualResume
 Here are the critical arguments to the function:
 
 | Argument          | Definition | 
-|----------|--------------------------------------|
+|----------|------------------------------------------------|
 | `titles.left`, `titles.right`          | Character vectors (length 3) indicating the header titles  |
 | `timeline` | A dataframe with columns `title`, `sub`, `start`, `end`, `side`. The `title` and `sub` columns are character, `start` and `end` are integer, and `side` is binary (0 = bottom, 1 = top).     |   
 | `events`     | A dataframe with columns `title`, `year` specifying important events (e.g.; publications).     |   
@@ -86,7 +86,7 @@ Here are the critical arguments to the function:
 Here are some of the optional function arguments that will either add new elements to the plot, or adjust the attributes of existing elements.
 
 | Argument          | Definition | 
-|----------|--------------------------------------|
+|----------|------------------------------------------------|
 | `timeline.labels` | Character vector (length 2) indicating labels for the top and bottom of the timeline     |   
 | `events`     | A dataframe with columns `title`, `year` specifying important events (e.g.; publications).     |   
 | `interests`     | A list of named character vectors specifying interests. The more often a value occurs in a vector, the larger it will be displayed.     | 

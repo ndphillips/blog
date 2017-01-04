@@ -1,5 +1,6 @@
 Introducing the VisualResume (v0.1.0) R Package
 ================
+January 3 2017
 
 Visual Resumes are cool
 -----------------------
@@ -27,10 +28,10 @@ The main function in the package is `VisualResume()`. When running `VisualResume
 
 Here are the critical arguments to the function:
 
-<table style="width:69%;">
+<table style="width:83%;">
 <colgroup>
 <col width="15%" />
-<col width="54%" />
+<col width="68%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -62,10 +63,10 @@ Here are the critical arguments to the function:
 
 Here are some of the optional function arguments that will either add new elements to the plot, or adjust the attributes of existing elements.
 
-<table style="width:69%;">
+<table style="width:83%;">
 <colgroup>
 <col width="15%" />
-<col width="54%" />
+<col width="68%" />
 </colgroup>
 <thead>
 <tr class="header">
