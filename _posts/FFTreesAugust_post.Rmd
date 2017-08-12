@@ -1,7 +1,7 @@
 ---
-title: "Simplicity matters. Introducing FFTrees (v1.3.3), Phillips et al. (2017), and ShinyFFTrees"
+title: "Simplicity matters - 3 updates to the FFTrees universe"
 output: github_document
-date: "August 10 2017"
+date: "August 10, 2017"
 bibliograpy: bibliography.bib
 ---
 

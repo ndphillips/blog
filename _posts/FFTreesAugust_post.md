@@ -1,6 +1,6 @@
-Simplicity matters. Introducing FFTrees (v1.3.3), Phillips et al. (2017), and ShinyFFTrees
+Simplicity matters - 3 updates to the FFTrees universe
 ================
-August 10 2017
+August 10, 2017
 
 <link rel="stylesheet" href="../font-awesome-4.7.0/css/font-awesome.min.css">
 
