@@ -2,7 +2,6 @@
 title: "Simplicity matters - 3 updates to the FFTrees universe"
 output: github_document
 date: "August 10, 2017"
-bibliograpy: bibliography.bib
 ---
 
 ```{r, echo = FALSE, message = FALSE}
