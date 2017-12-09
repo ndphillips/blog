@@ -1,10 +1,10 @@
 ---
-title: "Data Science Trivia from the Basel Data Science meetup group"
+title: "Data science trivia from the Basel Data Science (BDS) meetup group"
 date: "December 9, 2017"
 layout: post
 ---
 
-A few weeks ago, we had our first meetup of the Basel Data Scientists here in Basel, Switzerland. As it was our first meeting, and I wanted people to get to know each other and have some fun, I decided to have the members play a data science trivia game. I split the group into two teams of 5, and had each group answer 20 data science trivia questions I gathered the questions from a mixture of classic statistical brain teasers, from both statistics and psychology, some statistical history (thank you Wikipedia!), and a few basic probability calculations. I had no idea if people would be into the game or not, but I was happy to see that after a few questions (and beers), people were engaged in some (at times heated!) debates over questions like the definition of a p-value, and how to best protect an airplane from enemy fire.
+A few weeks ago, we had our first meetup of the Basel Data Scientists (BDS) here in Basel, Switzerland. As it was our first meeting, and I wanted people to get to know each other and have some fun, I decided to have the members play a data science trivia game. I split the group into two teams of 5, and had each group answer 20 data science trivia questions I gathered from a mixture of classic statistical brain teasers, from both statistics and psychology, some statistical history (thank you Wikipedia!), and a few basic probability calculations. I had no idea if people would be into the game or not, but I was happy to see that after a few questions (and beers), people were engaged in some (at times heated!) debates over questions like the definition of a p-value, and how to best protect an airplane from enemy fire.
 
 As I thought other people might have fun with the game. I am posting them here for other people to enjoy. As you'll see, the 20 questions are broken down into four categories "Fun", "Statistics", "History", and "Terminology". Once you've given the questions a shot, you can find (my) answers to the questions at [http://ndphillips.github.io/DataScienceTrivia_Answers.html](http://ndphillips.github.io/DataScienceTrivia_Answers.html). If you find errors, or have suggestions for better questions, don't hesitate to write me at Nathaniel.D.Phillips.is@gmail.com. Have fun!
 
@@ -15,7 +15,7 @@ As I thought other people might have fun with the game. I am posting them here f
 1. Abraham is tasked with reviewing damaged planes coming back from sorties over Germany in the Second World War. He has to review the damage of the planes to see which areas must be protected even more. Abraham finds that the fuel system of returned planes are much more likely to be damaged by bullets than the engines. Which part of the plan should he recommend to receive additional protection, the fuel systems or the engines?
 \vspace{2cm}
 
-2. Paul the __ was an animal that became famous in 2010 for accurately predicting the outcomes of the 2010 world cup. What species was paul?
+2. Paul the __ was an animal that became famous in 2010 for accurately predicting the outcomes of the 2010 world cup. What species was Paul?
 \vspace{3cm}
 
 3. Amy and Bob have two children, one of whom is female. What is the probability that their other child is female?
